@@ -35,3 +35,31 @@ EMS is a web-based application designed for **task management** within organizat
 
 This project is hosted on **GitHub Pages** for easy access. Check it out here:  
 👉 [**View the Project**](https://Abdul-Wasi.github.io/ems)
+
+## 👤 **Demo Credentials**
+
+You can log in using the following credentials:
+
+### **Admin Login:**
+- **Email:** admin@example.com
+- **Password:** 123
+
+### **Employee Login (6 Employees):**
+- **Employee 1:** 
+  - **Email:** employee1@example.com
+  - **Password:** 123
+- **Employee 2:** 
+  - **Email:** employee2@example.com
+  - **Password:** 123
+- **Employee 3:** 
+  - **Email:** employee3@example.com
+  - **Password:** 123
+- **Employee 4:** 
+  - **Email:** employee4@example.com
+  - **Password:** 123
+- **Employee 5:** 
+  - **Email:** employee5@example.com
+  - **Password:** 123
+- **Employee 6:** 
+  - **Email:** employee6@example.com
+  - **Password:** 123
